@@ -6,6 +6,7 @@ body{
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
     color:#ddd767;
+    background-color: #3f4f2a;
 }
 
 
@@ -60,5 +61,23 @@ nav a {
 nav a:hover{
     background-color: #ddd767;
     color:#3f4f2a;
+}
+
+/* Footer */
+
+.footer{
+    background-color: #3f4f2a;
+    height:100px;
+    position:relative;
+}
+
+
+.socials{
+    text-align: center;
+    bottom:0px;
+}
+
+#copyright{
+    text-align: center;
 }
 
