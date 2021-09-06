@@ -1,0 +1,64 @@
+/*fonts link*/
+@import url('https://fonts.googleapis.com/css2?family=Kaisei+Tokumin:wght@500&family=Roboto&display=swap');
+
+body{
+    margin:0 auto;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    color:#ddd767;
+}
+
+
+/* Header and nav bar*/
+
+header {
+    background-color: #3f4f2a;
+}
+
+header::after{
+    content:'';
+    display: table;
+    clear:both;
+}
+.container {
+    width:90%;
+    margin:0 auto;
+}
+
+#logo {
+    font-family: 'koisei tokumin', sans-serif;
+    color:#ddd767;
+    float:left;
+    
+}
+nav{
+    float:right;
+}
+
+nav  ul {
+    margin:0 auto;
+    padding:0;
+    list-style: none;
+
+}
+
+nav li {
+    display:inline-block;
+    margin-left:75px;
+    padding-top:30px;
+    
+}
+
+nav a {
+    color:#ddd767;
+    text-decoration: none;
+    font-family: 'koisei tokumin', sans-serif;
+    text-transform: uppercase;
+    font-size: large;
+}
+
+nav a:hover{
+    background-color: #ddd767;
+    color:#3f4f2a;
+}
+
