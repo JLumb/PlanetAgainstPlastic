@@ -7,6 +7,15 @@ body{
     font-weight: 400;
     color:#ddd767;
     background-color: #3f4f2a;
+
+    display: flex;
+    flex-direction: column;
+
+    min-height:100%;
+}
+
+html{
+    height:100%;
 }
 
 
@@ -69,15 +78,25 @@ nav a:hover{
     background-color: #3f4f2a;
     height:100px;
     position:relative;
+    margin-top:auto;
 }
 
 
-.socials{
-    text-align: center;
-    bottom:0px;
-}
+
 
 #copyright{
+    bottom:0px;
     text-align: center;
+    text-decoration: none;
+    display:inline;
+}
+
+.socials {
+    text-align: center;
+    text-decoration: none;
+}
+
+.socials > li{
+    display:inline;
 }
 
