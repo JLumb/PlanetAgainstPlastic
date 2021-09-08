@@ -26,7 +26,11 @@ header {
     background-color: #3f4f2a;
 }
 
-
+header::after{
+    content:'';
+    display: table;
+    clear:both;
+}
 
 
 
@@ -34,7 +38,7 @@ header {
     font-family: 'koisei tokumin', sans-serif;
     color:#ddd767;
     float:left;
-    
+    padding-left: 2.5%;
     
 }
  /*navigation bar*/
@@ -71,7 +75,7 @@ header {
 
 /* Footer */
 
-.container{
+.footer{
     background-color: #3f4f2a;
     height:100px;
     position:relative;
@@ -81,7 +85,7 @@ header {
 
 
 
-.container #copyright{
+.footer #copyright{
     text-decoration: none;
     display:inline;
     margin-left: 42%;
