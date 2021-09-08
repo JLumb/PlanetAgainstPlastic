@@ -84,11 +84,10 @@ nav a:hover{
 
 
 
-#copyright{
-    bottom:0px;
-    text-align: center;
+.footer #copyright{
     text-decoration: none;
     display:inline;
+    margin-left: 42%;
 }
 
 .socials {
@@ -98,5 +97,11 @@ nav a:hover{
 
 .socials > li{
     display:inline;
+}
+
+.socials i {
+    font-size: 200%;
+    color:#ddd767;
+    padding:1%;
 }
 
