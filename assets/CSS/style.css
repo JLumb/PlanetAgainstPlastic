@@ -22,13 +22,15 @@ html{
 }
 
 .container{
-    
+     width:90%;
+     margin: 0 auto;   
 }
 
 /*logo*/
 
 header {
     background-color: #3f4f2a;
+    
 }
 
 header::after{
@@ -93,7 +95,7 @@ header::after{
 #footer #copyright{
     text-decoration: none;
     display:inline;
-    margin-left: 42%;
+    margin-left: 41%;
     color: #ddd767;
 }
 
