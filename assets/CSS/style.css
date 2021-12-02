@@ -21,7 +21,7 @@ html{
     height:100%;
 }
 
-.container{
+#container{
      width:90%;
      margin: 0 auto;   
 }
@@ -30,6 +30,7 @@ html{
 
 header {
     background-color: #3f4f2a;
+    
     
 }
 
@@ -41,7 +42,7 @@ header::after{
 
 
 
-#logo {
+.logo {
     font-family: 'koisei tokumin', sans-serif;
     color:#ddd767;
     float:left;
@@ -50,29 +51,31 @@ header::after{
 }
  /*navigation bar*/
 
- #menu{
+ .menu{
      font-size: 25px;
      letter-spacing: 1px;
 
  }
 
- #menu li{
+ .menu li{
+     font-family: 'koisei tokumin', sans-serif;
      float:right;
      list-style-type: none;
      margin-right:45px;
+     margin-top:10px;
  }
 
- #menu a{
+ .menu a{
      text-decoration: none;
      color:#ddd767;
  }
 
-#menu a:hover{
+.menu a:hover{
     background-color: #ddd767;
     color:#3f4f2a;
 }
 
-#menu, #logo{
+.menu, #logo{
     line-height: 75px;
 }
 
@@ -80,9 +83,19 @@ header::after{
     border:solid 2px #ddd767;
 }
 
+/*about us*/
+
+.intro {
+    font-family: 'koisei tokumin', sans-serif;
+    padding-left: 10%;
+    margin:auto;
+   
+    
+}
+
 /* Footer */
 
-#footer{
+.footer{
     background-color: #3f4f2a;
     height:100px;
     position:sticky;
@@ -92,7 +105,7 @@ header::after{
 
 
 
-#footer #copyright{
+.footer .copyright{
     text-decoration: none;
     display:inline;
     margin-left: 41%;
