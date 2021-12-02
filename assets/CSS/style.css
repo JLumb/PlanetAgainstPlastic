@@ -87,10 +87,12 @@ header::after{
 
 .intro {
     font-family: 'koisei tokumin', sans-serif;
-    padding-left: 10%;
+    padding-left:5%;
     margin:auto;
-   
-    
+}
+
+.intro > p{
+    font-size: 20px;
 }
 
 /* Footer */
