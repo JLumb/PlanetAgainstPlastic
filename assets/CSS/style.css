@@ -21,7 +21,7 @@ html{
     height:100%;
 }
 
-#container{
+.container{
      width:90%;
      margin: 0 auto;   
 }
@@ -97,7 +97,7 @@ header::after{
 
 /* Footer */
 
-.footer{
+#footer{
     background-color: #3f4f2a;
     height:100px;
     position:sticky;
@@ -107,7 +107,7 @@ header::after{
 
 
 
-.footer .copyright{
+#footer .copyright{
     text-decoration: none;
     display:inline;
     margin-left: 41%;
