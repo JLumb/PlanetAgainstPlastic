@@ -85,13 +85,13 @@ header::after{
 
 /*about us*/
 
-.intro {
+#intro {
     font-family: 'koisei tokumin', sans-serif;
     padding-left:5%;
     margin:auto;
 }
 
-.intro > p{
+#intro > p{
     font-size: 20px;
 }
 
