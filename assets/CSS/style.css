@@ -89,11 +89,26 @@ header::after{
     font-family: 'koisei tokumin', sans-serif;
     padding-left:5%;
     margin:auto;
+    padding-top:100px;
 }
 
 #intro > p{
     font-size: 20px;
 }
+
+/*how you can help*/
+
+#help {
+    font-family: 'koisei tokumin', sans-serif;
+    padding-left:5%;
+    margin:auto;
+}
+
+#help > p{
+    font-size: 20px;
+}
+
+
 
 /* Footer */
 
