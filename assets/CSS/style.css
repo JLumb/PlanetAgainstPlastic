@@ -147,8 +147,7 @@ header::after{
 
 #footer .copyright{
     text-decoration: none;
-    display:inline;
-    margin-left: 41%;
+    text-align: center;
     color: #ddd767;
 }
 
@@ -162,7 +161,7 @@ header::after{
 }
 
 .socials i {
-    font-size: 200%;
+    font-size: 40px;
     color:#ddd767;
     padding:1%;
 }
