@@ -110,6 +110,27 @@ header::after{
     right:50px ;
     }
 
+.gallery {
+    text-align: center;
+    padding-top: 50px;
+    font-size:20px;
+}
+
+*{
+    box-sizing: border-box;
+}
+.column {
+    float:left;
+    width: 33.33%;
+    padding:5px;
+   
+}
+
+.row::after {
+    content:"";
+    display: table;
+    clear:both;
+}
 
 
 
@@ -118,8 +139,8 @@ header::after{
 #footer{
     background-color: #3f4f2a;
     height:100px;
-    position:sticky;
     margin-top:100%;
+    position: relative;
 }
 
 
