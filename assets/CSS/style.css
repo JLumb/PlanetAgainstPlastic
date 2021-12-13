@@ -138,7 +138,7 @@ header::after{
 #footer{
     background-color: #3f4f2a;
     height:100px;
-    margin-top:100%;
+    margin-top:auto;
     position: relative;
 }
 
