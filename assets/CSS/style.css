@@ -94,12 +94,11 @@ header::after{
 
 
 #intro {
+    width: 50%;
     text-align: center;
-    background-image: url(../CSS/images/fishinplastic.jpg);
     margin:auto;
-    padding:25px 25px 25px 25px;
     background-size: cover;
-   
+    
 
 
 }
@@ -143,14 +142,7 @@ header::after{
     
 }
 
-/*background image*/
 
-.backgroundimage {
-    background-image: url(../CSS/images/turtle.jpg);
-    background-repeat: no-repeat;
-    padding: 200px 100px;
-    
-}
 
     /*gallery*/
 
