@@ -91,14 +91,21 @@ header::after{
 
 /*about us*/
 
+
+
 #intro {
-    padding-left:5%;
+    text-align: center;
+    background-image: url(../CSS/images/fishinplastic.jpg);
     margin:auto;
-    padding-top:100px;
+    padding:25px 25px 25px 25px;
+    background-size: cover;
+   
+
+
 }
 
 #intro > p{
-    font-size: 20px;
+    font-size: 25px;
 }
 
 /*how you can help*/
@@ -173,7 +180,7 @@ header::after{
 
 .formwrapper {
     margin: auto;
-    width: 20%;
+    width: 100%;
     background-color: #ddd767;
     color: #3f4f2a;
 }
