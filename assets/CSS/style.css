@@ -50,17 +50,25 @@ header::after{
 }
  /*navigation bar*/
 
+ .planetlogo {
+     margin-top: 2%;
+     margin-left: 4%;
+ }
+
  .menu{
      font-size: 25px;
      letter-spacing: 1px;
+     padding-left: 75%;
 
  }
 
  .menu li{
-     float:right;
+     display: inline-block;
      list-style-type: none;
-     margin-right:45px;
-     margin-top:10px;
+     margin-top: 2%;
+     margin-right: 5px;
+     
+     
  }
 
  .menu a{
@@ -128,6 +136,15 @@ header::after{
     
 }
 
+/*background image*/
+
+.backgroundimage {
+    background-image: url(../CSS/images/turtle.jpg);
+    background-repeat: no-repeat;
+    padding: 200px 100px;
+    
+}
+
     /*gallery*/
 
 .gallery {
@@ -150,6 +167,15 @@ header::after{
     content:"";
     display: table;
     clear:both;
+}
+
+/*required form*/
+
+.formwrapper {
+    margin: auto;
+    width: 20%;
+    background-color: #ddd767;
+    color: #3f4f2a;
 }
 
 
@@ -189,6 +215,8 @@ header::after{
 
 
 /*Responsive for smaller screen sizes*/
+
+@media screen and (max-width:1440px){}
 
 
 
