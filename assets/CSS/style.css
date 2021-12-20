@@ -89,6 +89,8 @@ header::after{
     border:solid 2px #ddd767;
 }
 
+
+
 /*about us*/
 
 
@@ -122,6 +124,7 @@ header::after{
     width: 100%;
     max-width: 800px;
     margin: auto;
+    padding-bottom: 50px;
 }
 
 .videocontainer {
@@ -144,33 +147,41 @@ header::after{
 
 
 
-    /*gallery*/
 
-.gallery {
+/*gallery*/
+
+.galleryhead {
     text-align: center;
-    padding-top: 50px;
-    font-size:20px;
 }
 
 *{
     box-sizing: border-box;
 }
-.column {
-    float:left;
-    width: 33.33%;
-    padding:5px;
-   
+
+.row1 {
+    display: flex;
 }
 
-.row::after {
-    content:"";
-    display: table;
-    clear:both;
+.imagewrap {
+    width: 35%;
 }
+
+.imagewrap img {
+    width: 100%;
+}
+
+.row1 .imagewrap:focus,
+.row1 .imagewrap:hover {
+    transform: scale(1.5);
+    z-index: 1;
+}
+
 
 /*required form*/
 
 .formwrapper {
+    
+    text-align: center;
     margin: auto;
     width: 100%;
     background-color: #ddd767;
