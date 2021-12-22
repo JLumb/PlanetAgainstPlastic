@@ -160,10 +160,14 @@ header::after{
 
 .row1 {
     display: flex;
+    width: 90%;
+    margin: 0 auto;
+    flex-wrap: wrap;
 }
 
 .imagewrap {
-    width: 35%;
+    display: block;
+    flex-basis: 100%;
 }
 
 .imagewrap img {
@@ -226,7 +230,31 @@ header::after{
 
 /*Responsive for smaller screen sizes*/
 
-@media screen and (max-width:1440px){}
+@media only screen and (min-width:640px){
+
+    .imagewrap {
+        flex-basis: 50%;
+    }
+
+}
+
+
+@media only screen and (min-width:960px){
+
+    .imagewrap {
+        flex-basis: 33.33%;
+    }
+
+}
+
+
+@media only screen and (min-width:1200px){
+
+    .imagewrap {
+        flex-basis: 25%;
+    }
+
+}
 
 
 
