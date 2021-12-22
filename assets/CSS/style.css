@@ -235,7 +235,8 @@ header::after{
     .imagewrap {
         flex-basis: 50%;
     }
-
+    
+  
 }
 
 
@@ -255,6 +256,7 @@ header::after{
     }
 
 }
+
 
 
 
