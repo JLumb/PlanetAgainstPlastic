@@ -28,6 +28,16 @@ html{
 
 /*logo*/
 
+.hero{
+    background-image: url(./images/earthdayfinaledit.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 70%;
+    margin: 0 auto;
+    opacity: 1.5;
+}
+
+
 header {
     background-color: #3f4f2a;
     
@@ -95,10 +105,15 @@ header::after{
 
 
 
+
 #intro {
     width: 50%;
     text-align: center;
     margin:auto;
+    color: #ddd767;
+    
+    
+    
     
 }
 
@@ -267,6 +282,13 @@ header::after{
 
 }
 
+
+@media screen and (max-width:1400px){
+
+    .hero{
+        display: none;
+    }
+}
 
 
 
