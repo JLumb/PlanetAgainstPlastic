@@ -98,6 +98,45 @@ Each of the above links will take you too the corrisponding part of the webpage,
     ![](assets/CSS/images/lighthouse.png)
 
 
+* Testing user stories from user experience (UX)
+
+    * First Time Visitor Goals
+        As a first time visitor, I want to be able to easily navigate the webpage.
+
+            When first entering the website the navigation bar is very clear and very easy to use. clicking each of the navigation buttons will take you to the
+            part of the site you are looking for
+
+        As a first time visitor, I want to understand the motive of the webpage right away and be entrigued to learn more.
+
+            One of the first things you see when you open the webpage is the about us section which clearly describes what the website is focused on
+
+    * Returning Visitor
+        As a returning visitor, I want to be able to explore further through social media links.
+
+            The social media links are very easy to find once you navigate to the contact us section. this allows users to gain more information and trust 
+            about the website.
+
+        As a returning visitor, I want to be able to contact the organisation for more information on this subject.
+
+            Upon clicking the contact us navigation you are taken to a simple and easy to use form which will give the organisation your contact details
+            and let them know that you are wanting more information about the project.
+
+        As a returning visitor, I want to find out what else i can do to help and where i can visit to do it.
+
+            As a returning visitor you can check to see what charities are linked with planet against project and how i can help.
+
+        
+
+        
+
+
+
+
+        
+
+        
+
+
             
 
 
