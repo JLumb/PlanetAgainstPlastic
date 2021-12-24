@@ -284,9 +284,10 @@ header::after{
   
 @media only screen and (max-width:1200px){
 
-    .hero{
-        display: none;
-    }
+.hero {
+    background-image: none;
+}
+
 }
 
 
