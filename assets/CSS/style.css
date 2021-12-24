@@ -34,7 +34,7 @@ html{
     background-size: cover;
     width: 70%;
     margin: 0 auto;
-    opacity: 1.5;
+    
 }
 
 
@@ -107,14 +107,10 @@ header::after{
 
 
 #intro {
-    width: 50%;
-    text-align: center;
+
+    width: 70%;
     margin:auto;
-    color: #ddd767;
-    
-    
-    
-    
+    color: #ddd767;  
 }
 
 
@@ -167,6 +163,7 @@ header::after{
     position:absolute;
     top: 0;
     left: 0;
+    margin-top: 10px;
     
 }
 
@@ -215,6 +212,10 @@ header::after{
     width: 100%;
     background-color: #ddd767;
     color: #3f4f2a;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    font-size: 25px;
+    
 }
 
 
@@ -288,7 +289,14 @@ header::after{
     background-image: none;
 }
 
+.formwrapper {
+
+    font-size: 18px;
 }
+
+}
+
+
 
 
 

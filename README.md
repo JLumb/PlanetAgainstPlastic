@@ -26,7 +26,7 @@ Each of the above links will take you too the corrisponding part of the webpage,
 
 
 
-![](assets/CSS/images/responsive.png)
+![](assets/CSS/images/responsivefinal.png)
 
 #  User Experience (UX)
 
