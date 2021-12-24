@@ -280,15 +280,14 @@ header::after{
         flex-basis: 25%;
     }
 
-}
-
-
-@media screen and (max-width:1400px){
-
     .hero{
         display: none;
     }
+
 }
+
+
+
 
 
 
