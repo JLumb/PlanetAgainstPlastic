@@ -60,4 +60,47 @@ Each of the above links will take you too the corrisponding part of the webpage,
     * Git - Used the gitpod terminal to create and push the code to github.
 
     * Github - Used to store all the projects code so website can be published after code is pushed from git.
+
+
+* User Stories
+
+    * Visitor Goals
+
+        * First Visit
+
+
+            As a first time visitor, I want to be able to easily navigate the webpage.
+
+            As a first time visitor, I want to understand the motive of the webpage right away and be entrigued to learn more.
+
+        * Returning Visit
+
+            As a returning visitor, I want to be able to explore further through social media links.
+
+            As a returning visitor, I want to be able to contact the organisation for more information on this subject.
+
+            As a returning visitor, I want to find out what else i can do to help and where i can visit to do it.
+
+        * Frequent Visitor
+
+            As a frequent visitor, I want to be able to return and see how the organisation has helped since my last visit.
+
+            As a frequent visitor, I want to return and see if there is any updated videos or information.
+
+* Testing
+
+    * Throughout creating this website i consistently checked my code by using the W3C validators.
+
+    ![W3C](assets/CSS/images/w3c.png)
+
+    * I also used lighthouse to see how efficiently my webpage was running
+
+    ![](assets/CSS/images/lighthouse.png)
+
+
+            
+
+
+
+
     
