@@ -26,7 +26,7 @@ Each of the above links will take you too the corrisponding part of the webpage,
 
 
 
-![](assets/CSS/images/responsivefinal.png)
+![](assets/CSS/images/responsivefinal1.png)
 
 #  User Experience (UX)
 
@@ -108,7 +108,7 @@ Each of the above links will take you too the corrisponding part of the webpage,
 
         As a first time visitor, I want to understand the motive of the webpage right away and be entrigued to learn more.
 
-            One of the first things you see when you open the webpage is the about us section which clearly describes what the website is focused on
+            One of the first things you see when you open the webpage is the about us section which grabs your attention and clearly describes what the website is focused on.
 
     * Returning Visitor
         As a returning visitor, I want to be able to explore further through social media links.
@@ -123,9 +123,57 @@ Each of the above links will take you too the corrisponding part of the webpage,
 
         As a returning visitor, I want to find out what else i can do to help and where i can visit to do it.
 
-            As a returning visitor you can check to see what charities are linked with planet against project and how i can help.
+            As a returning visitor you can check to see what charities are linked with planet against project and how i can help. These are found by clicking 
+            the logos that are links to the corresponding websites.
 
+    * Frequent Visitor
+         As a frequent visitor, I want to be able to return and see how the organisation has helped since my last visit.
+            
+            As a frequent visitor you can keep up with events on the social medias linked and see all the newest progress
+            the social medias are found in the footer of every page.
+
+        As a frequent visitor, I want to return and see if there is any updated videos or information.
+
+            As a frequent Visitor, you can easily navigate to the gallery and informational video on our webpages to see if they have been updated
+
+
+    * Further Testing
+
+        * The website was checked on all popular browsers (Chrome, Firefox, Edge and Safari)
+        * The website was visited by family and friends to check the layout and functionality
+        * The website was visited on Ipads, Iphones and Laptops aswell as varying Desktop sizes.
+
+    * Known Bugs
+
+        * The nav bar would not respond properly to responsive design for smaller screens
+
+        * on some screen sizes a small gap appears in the iframe embedded video
+
+        * Could not get the contact us nav button to link back to the bottom of the main for the contact us details
         
+* Credits
+
+     * All images used were none watermarked images sourced from google
+
+        * The charity logos come from there official websites
+            https://www.nwt.org.uk/ and https://plasticoceans.org/
+
+     * All of the text was created by by me
+
+     * code the code is original with slight influence from different guides and tutorials on youtube.
+     including - 
+     
+     Nav bar-
+     https://www.youtube.com/watch?v=FEmysQARWFU&t=1128s&ab_channel=KevinPowell
+     Gallery -
+     https://www.youtube.com/watch?v=exghLWA3ZIU&t=1434s&ab_channel=CodewithAniaKub%C3%B3w
+
+
+
+
+
+
+
 
         
 
